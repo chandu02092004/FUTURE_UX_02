@@ -185,13 +185,7 @@ appointment-booking-ui
 
 ---
 
-# 🔗 Figma Design File
 
-Add your Figma design link here:
-
-```
-https://figma.com/your-design-link
-```
 
 ---
 
