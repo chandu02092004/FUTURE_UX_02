@@ -1,11 +1,19 @@
+# @babel/code-frame
 
-  # Appointment Booking App Design
+> Generate errors that contain a code frame that point to source locations.
 
-  This is a code bundle for Appointment Booking App Design. The original project is available at https://www.figma.com/design/Xzi80IfAA2il7O5xSsHc7h/Appointment-Booking-App-Design.
+See our website [@babel/code-frame](https://babeljs.io/docs/babel-code-frame) for more information.
 
-  ## Running the code
+## Install
 
-  Run `npm i` to install the dependencies.
+Using npm:
 
-  Run `npm run dev` to start the development server.
-  
+```sh
+npm install --save-dev @babel/code-frame
+```
+
+or using yarn:
+
+```sh
+yarn add @babel/code-frame --dev
+```
